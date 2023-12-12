@@ -1,0 +1,13 @@
+langchain
+openai
+unstructured[all-docs]
+pydantic
+lxml
+langchainhub
+python-dotenv
+chromadb
+tiktoken
+streamlit
+langchain-experimental
+pillow
+matplotlib
